@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API Iresen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4238342c58499bdf062b7c61e8cac3e2495f5221")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1687517fa7162e82f084e32406ba7b2621403a0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("API Iresen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API Iresen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
